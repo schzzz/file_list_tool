@@ -34,3 +34,9 @@ cd <你的檔案位置>
 
 
 python file_list_tool.py
+
+## 聯繫方式
+
+此為本人第一個自製軟體(?)若有錯誤敬請告知:D
+
+Gmail：sl8766687@gmail.com
